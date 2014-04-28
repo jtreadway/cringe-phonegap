@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000534C423900000000000003B4
+t1397506617
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534C423D000000000000019E
+t1397506621
+s414
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDV.h
+c0000000053555A160000000000000516
+t1398102550
+s1302
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c0000000053555A160000000000000CDD
+t1398102550
+s3293
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c0000000053555A1600000000000008BA
+t1398102550
+s2234
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c0000000053555A1600000000000004B5
+t1398102550
+s1205
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c0000000053555A160000000000001491
+t1398102550
+s5265
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c0000000053555A160000000000000503
+t1398102550
+s1283
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c0000000053555A160000000000001EB7
+t1398102550
+s7863
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c0000000053555A1600000000000004CB
+t1398102550
+s1227
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c0000000053555A160000000000000EB2
+t1398102550
+s3762
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c0000000053555A160000000000000401
+t1398102550
+s1025
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c0000000053555A1600000000000007E6
+t1398102550
+s2022
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c0000000053555A160000000000000DDE
+t1398102550
+s3550
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c0000000053555A1600000000000003DA
+t1398102550
+s986
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c0000000053555A1600000000000009A1
+t1398102550
+s2465
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c0000000053555A1600000000000006CF
+t1398102550
+s1743
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c0000000053555A160000000000004C7E
+t1398102550
+s19582
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c0000000053555A160000000000000892
+t1398102550
+s2194
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c0000000053555A1600000000000016AE
+t1398102550
+s5806
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c0000000053555A160000000000000C13
+t1398102550
+s3091
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c0000000053555A160000000000001B29
+t1398102550
+s6953
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c0000000053555A160000000000000408
+t1398102550
+s1032
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.h
+c0000000053555A1600000000000003E6
+t1398102550
+s998
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.m
+c0000000053555A1600000000000006B6
+t1398102550
+s1718
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c0000000053555A16000000000000038D
+t1398102550
+s909
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c0000000053555A160000000000000AA2
+t1398102550
+s2722
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c0000000053555A16000000000000041C
+t1398102550
+s1052
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c0000000053555A16000000000000259E
+t1398102550
+s9630
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c0000000053555A160000000000000421
+t1398102550
+s1057
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c0000000053555A16000000000000133E
+t1398102550
+s4926
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c0000000053555A160000000000000ACC
+t1398102550
+s2764
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c0000000053555A160000000000008FB3
+t1398102550
+s36787
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c0000000053555A1600000000000005A2
+t1398102550
+s1442
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c0000000053555A160000000000003764
+t1398102550
+s14180
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c0000000053555A1600000000000004B4
+t1398102550
+s1204
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c0000000053555A160000000000002814
+t1398102550
+s10260
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c0000000053555A160000000000000392
+t1398102550
+s914
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c0000000053555A1600000000000004D8
+t1398102550
+s1240
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c0000000053555A16000000000000037D
+t1398102550
+s893
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c0000000053555A1600000000000022CC
+t1398102550
+s8908
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c0000000053555A1600000000000005DA
+t1398102550
+s1498
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c0000000053555A160000000000001059
+t1398102550
+s4185
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c0000000053555A1600000000000003A0
+t1398102550
+s928
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c0000000053555A160000000000000584
+t1398102550
+s1412
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c0000000053555A160000000000000476
+t1398102550
+s1142
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c0000000053555A160000000000000620
+t1398102550
+s1568
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c0000000053555A160000000000000346
+t1398102550
+s838
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1398102552
+s61360
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1398102552
+s61332
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1398102552
+s27424
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1398102551
+s18224
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1398102552
+s10552
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1398102552
+s106404
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1398102552
+s57096
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1398102551
+s36616
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1398102552
+s9024
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1398102552
+s22584
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1398102552
+s68864
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1398102552
+s50728
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1398102552
+s162968
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1398102552
+s67868
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1398102551
+s42404
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c0000000053555A170000000000000C67
+t1398102551
+s3175
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1398102551
+s7196
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1398102551
+s10888
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1398102551
+s17308
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1398102551
+s6752
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1398102552
+s9172
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/libCordova.a
+t2
+s0
+
+N/var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch.pch
+t1398102551
+s3239028
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9d678c979105b941^205da8979105b941^---0#1#1#--18"Check dependencies36"679E0F06-E4B4-401A-A768-AC7602D8B962-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.984678
+e419795352.213762
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m232"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfb3afc979105b941^6fb936989105b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3901"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"FCC5A074-F96F-4B0A-8203-8A8239084723-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.980092
+e419795352.217210
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0f0dfb979105b941^cc9b37989105b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3859"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"92B69B55-7C16-4FC9-B1B3-090863307719-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.997760
+e419795352.050310
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d5600989105b941^302a0d989105b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3859"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"35140B1B-3113-4836-B5BF-4481E9B7686C-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.909896
+e419795351.959649
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m228"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f0ce9979105b941^69a8f5979105b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3889"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"18F877C9-023E-4759-8EB4-BA0DEE702DA8-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795352.050719
+e419795352.086637
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.m202"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3a240d989105b941^537a16989105b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3811"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"C03AB2CD-A53B-4F00-A4AF-10AC6D203942-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.954244
+e419795352.232251
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b72f4979105b941^b8753b989105b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3859"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"21668D00-146C-4ECC-BA0C-2AC1EC73815F-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.910843
+e419795352.140673
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1267e9979105b941^fb0424989105b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3823"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"0BBE02E2-7269-459A-9A26-0F1B2C1E94D5-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.910510
+e419795351.978245
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7650e9979105b941^3f6ffa979105b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3859"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"956DC69C-3DF7-4149-91DC-E408A0BF3515-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795352.157948
+e419795352.195676
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler469628989105b941^261832989105b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3823"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"146DFB23-E1A0-4800-A29D-5F3A7D0A7324-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795352.143628
+e419795352.190770
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.m204"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler63ec24989105b941^c3d630989105b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3817"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"7E88BF17-9600-44EE-8348-FC1A77606856-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.912897
+e419795352.157617
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m216"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5801ea979105b941^965928989105b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3853"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"FF009EE0-37FF-4C95-9F4E-03746DABD737-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795352.087058
+e419795352.269656
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m220"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd7116989105b941^460a45989105b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3865"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"3A87248C-3382-42A4-9677-DA47775AB785-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.946554
+e419795352.308211
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.m222"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d77f2979105b941^8ae94e989105b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3871"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"70734913-A589-4294-BE8D-18E1D4077FE9-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795352.142000
+e419795352.311765
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m224"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera18124989105b941^6cd04f989105b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3877"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"B320B855-9911-482A-9AF3-B22BE3E5B5A7-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.912177
+e419795351.984301
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.m212"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf1bbe9979105b941^a243fc979105b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3841"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"4BD51343-1D88-4FE2-B88E-34C077FC50E4-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.962150
+e419795351.996436
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9277f6979105b941^384dff979105b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3883"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"C05B327F-58CD-4AD1-A50A-B7B84F7957CF-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.910235
+e419795351.953842
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.m214"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6a30e9979105b941^efc8f4979105b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3847"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"5082F838-E436-4BDB-839E-B69AF6EFBBAC-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.909619
+e419795351.956578
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m234"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere3fde8979105b941^0630f5979105b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3907"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"7EA28A48-54AE-4BD0-93EC-D93A2ECC56A4-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.911679
+e419795351.946173
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m246"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler569de9979105b941^3082f2979105b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3943"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"A15055EE-655F-4884-A7C2-8EFF988A3F85-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.957097
+e419795352.143400
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler433df5979105b941^ff4025989105b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3883"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG -include /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"A1784327-6C1C-4034-BA24-C9DA08695757-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDV.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDV.h
+s419795351.664129
+e419795351.665234
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDV.h122"[1mCpHeader[0m Classes/CDV.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDV.h[0mb821aa979105b941^5c55aa979105b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDV.h0034dc0cdeffdf42^827"[1mCpHeader[0m Classes/CDV.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDV.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDV.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"94C18348-B5C5-4180-A2D7-16FF4C7DE7B8-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVAvailability.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s419795351.664543
+e419795351.665652
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h146"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m8a3baa979105b941^b268aa979105b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h0034dc0cdeffdf42^863"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"AC899BCF-5E41-4F75-9F5B-61D9F08779A8-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s419795351.663833
+e419795351.665061
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h152"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m4016aa979105b941^2942aa979105b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h0034dc0cdeffdf42^872"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"A18AF5AF-CDD5-4F95-8A7E-6795C6884296-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s419795351.666159
+e419795351.667325
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h160"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m9ca7aa979105b941^02d6aa979105b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h0034dc0cdeffdf42^884"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"44082E67-29C9-4095-B144-891BB1411389-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVCommandQueue.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s419795351.665915
+e419795351.666975
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h146"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m1893aa979105b941^37c6aa979105b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h0034dc0cdeffdf42^863"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"144F4EA9-BE22-4FEA-8A14-3C42E0566671-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVConfigParser.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s419795351.667183
+e419795351.668389
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h146"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0me2e8aa979105b941^b728ab979105b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h0034dc0cdeffdf42^863"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"5351D789-4932-48B3-A996-6BDBB99CDE69-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVDebug.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s419795351.661445
+e419795351.662818
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVDebug.h132"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0mbe66a9979105b941^4bcaa9979105b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVDebug.h0034dc0cdeffdf42^842"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"D0DEAB0A-5DE4-4E41-A2C9-304AAC044CBF-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s419795351.660583
+e419795351.662575
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h156"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m4431a9979105b941^86a9a9979105b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h0034dc0cdeffdf42^878"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"7B34B649-1D77-458D-A118-A8E5879ABC56-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVJSON.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s419795351.667515
+e419795351.668548
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVJSON.h130"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m16f8aa979105b941^3333ab979105b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVJSON.h0034dc0cdeffdf42^839"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"953265C1-2D98-48D6-81F1-E8CECD816785-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVLocalStorage.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s419795351.664940
+e419795351.666149
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h146"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0mee5aaa979105b941^7689aa979105b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h0034dc0cdeffdf42^863"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"F0BEE227-7271-46FF-A78B-46FE5FF92B52-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVPlugin.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s419795351.661148
+e419795351.663040
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h134"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0mad4fa9979105b941^f2d2a9979105b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h0034dc0cdeffdf42^845"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"841AB93E-7869-4DB0-9FAF-7F7A7B312355-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVPluginResult.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s419795351.660893
+e419795351.662584
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h146"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m4644a9979105b941^29b3a9979105b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h0034dc0cdeffdf42^863"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"8CBAA659-7C18-4A72-BF0F-1D4132C4072C-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s419795351.666902
+e419795351.668023
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h172"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m28d5aa979105b941^a914ab979105b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h0034dc0cdeffdf42^902"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"498200AF-185B-4657-88BC-23C21A8B3D4A-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVShared.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s419795351.666655
+e419795351.667789
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVShared.h134"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m0cccaa979105b941^69fcaa979105b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVShared.h0034dc0cdeffdf42^845"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"1656C61A-9F5B-400C-B4FF-C14F1D1F936C-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVTimer.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s419795351.668549
+e419795351.669430
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVTimer.h132"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0maf41ab979105b941^7c60ab979105b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVTimer.h0034dc0cdeffdf42^842"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"7A136888-73C5-492F-AF48-A70358FB4E0F-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVURLProtocol.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s419795351.662948
+e419795351.664435
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h144"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0mfbeba9979105b941^ce18aa979105b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h0034dc0cdeffdf42^860"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"1E6A0D9E-4E90-4845-8DF3-B96F94B1EBCA-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s419795351.668261
+e419795351.669297
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h148"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m8637ab979105b941^9357ab979105b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h0034dc0cdeffdf42^866"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"505F45D6-ABEE-4134-AE25-71C37D5C48C1-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVViewController.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s419795351.663354
+e419795351.664619
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVViewController.h150"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0me9efa9979105b941^2c2eaa979105b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVViewController.h0034dc0cdeffdf42^869"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"D5C57823-41AE-43C1-BBF5-F35E0D442EB2-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s419795351.667849
+e419795351.668962
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h152"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m6a13ab979105b941^af41ab979105b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h0034dc0cdeffdf42^872"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"02A1D9E9-49DB-4580-9D34-EDD56ACCDFB6-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/CDVWhitelist.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s419795351.662281
+e419795351.663567
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h140"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m8ca0a9979105b941^4f03aa979105b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h0034dc0cdeffdf42^854"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"C9968395-9163-4EFB-9B5D-0058973DBF50-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s419795351.665571
+e419795351.666720
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h154"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m4980aa979105b941^4ab2aa979105b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h0034dc0cdeffdf42^875"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"8EAB8B02-7FEC-461C-975E-3C40B485A4C6-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/NSData+Base64.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s419795351.660703
+e419795351.662573
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h142"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m0933a9979105b941^639aa9979105b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h0034dc0cdeffdf42^857"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"32470FF3-4FE2-4A41-B387-FC45A864832C-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s419795351.660382
+e419795351.662626
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h162"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0mba2da9979105b941^88bca9979105b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h0034dc0cdeffdf42^887"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"2CA8A018-97C6-4258-85C5-1E822810A363-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s419795351.661968
+e419795351.663203
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h174"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m988aa9979105b941^46eea9979105b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h0034dc0cdeffdf42^905"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"67FF0286-AA37-4C14-A038-97F5C779CD9D-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s419795351.665092
+e419795351.666284
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h154"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0med66aa979105b941^62a1aa979105b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h0034dc0cdeffdf42^875"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include/Cordova36"A1AE9C69-4DCD-4A69-A512-05094AA47955-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CLibtool /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/libCordova.a normal i386
+s419795352.313230
+e419795352.326155
+r1
+xLibtool
+x/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"[1mLibtool[0m /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/libCordova.a normal i386102"[1mLibtool[0m /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/libCordova.a normal i386704350989105b941^287f53989105b941^---0#0#1#--1151"[1mLibtool[0m /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -filelist /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/libCordova.a36"09A6AD12-0BC0-45C7-BCFB-D1E45D9C45CF-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+
+CProcessPCH /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419795351.670039
+e419795351.908831
+r1
+xProcessPCH
+x/var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch299"[1mProcessPCH[0m /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler59a2ab979105b941^50abe8979105b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3842"[1mProcessPCH[0m /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/jtreadway/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/jtreadway/src/mongodb-osx-x86_64-2.0.6/bin:/usr/lib/python2.7:/Users/jtreadway/.rvm/bin:/Users/jtreadway/mysrc/dotfiles/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=113 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/jtreadway/Projects/cringe/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch.d -c /Users/jtreadway/Projects/cringe/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/j_/fwr4cdvs5vg0nq5l2g_sw5n40000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-etciqnkpoqdltecaqobgjczuuejw/CordovaLib_Prefix.pch.pch36"754D2223-8038-4515-9914-106068510015-
+bB18C8E1C-73AF-45B2-B685-F6EEDB1DECC5
+

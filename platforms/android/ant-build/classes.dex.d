@@ -1,0 +1,23 @@
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes.dex : \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/com/phonegap/helloworld/BuildConfig.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/com/phonegap/helloworld/HelloWorld.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/com/phonegap/helloworld/R$attr.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/com/phonegap/helloworld/R$drawable.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/com/phonegap/helloworld/R$string.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/com/phonegap/helloworld/R$xml.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/com/phonegap/helloworld/R.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/jtreadway/Projects/cringe-phonegap/platforms/android/ant-build/dexedLibs/classes-fc51478b373f1c126db43b6dd0b8b214.jar \

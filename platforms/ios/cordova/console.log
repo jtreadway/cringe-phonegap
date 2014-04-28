@@ -1,0 +1,211 @@
+2014-04-21 13:50:44.142 HelloWorld[45356:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 13:50:44.274 HelloWorld[45356:70b] Resetting plugins due to page load.
+2014-04-21 13:50:44.327 HelloWorld[45356:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 13:53:44.041 HelloWorld[45918:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 13:53:44.154 HelloWorld[45918:70b] Resetting plugins due to page load.
+2014-04-21 13:53:44.194 HelloWorld[45918:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 13:53:44.502 HelloWorld[45918:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 13:53:44.506 HelloWorld[45918:70b] THREAD WARNING: ['InAppBrowser'] took '295.460938' ms. Plugin should use a background thread.
+2014-04-21 15:54:22.412 HelloWorld[48082:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 15:54:22.466 HelloWorld[48082:70b] Resetting plugins due to page load.
+2014-04-21 15:54:22.489 HelloWorld[48082:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 15:54:22.574 HelloWorld[48082:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 15:54:22.577 HelloWorld[48082:70b] THREAD WARNING: ['InAppBrowser'] took '75.507812' ms. Plugin should use a background thread.
+2014-04-21 15:55:50.444 HelloWorld[48447:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 15:55:50.571 HelloWorld[48447:70b] Resetting plugins due to page load.
+2014-04-21 15:55:50.602 HelloWorld[48447:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 15:55:50.641 HelloWorld[48447:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 15:55:50.645 HelloWorld[48447:70b] THREAD WARNING: ['InAppBrowser'] took '24.670898' ms. Plugin should use a background thread.
+2014-04-21 16:05:01.835 HelloWorld[48847:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:05:01.864 HelloWorld[48847:70b] [CDVTimer][statusbar] 6.702006ms
+2014-04-21 16:05:01.865 HelloWorld[48847:70b] [CDVTimer][TotalPluginStartup] 7.170975ms
+2014-04-21 16:05:01.893 HelloWorld[48847:70b] Resetting plugins due to page load.
+2014-04-21 16:05:01.917 HelloWorld[48847:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:05:01.942 HelloWorld[48847:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:05:01.945 HelloWorld[48847:70b] THREAD WARNING: ['InAppBrowser'] took '19.316162' ms. Plugin should use a background thread.
+2014-04-21 16:08:49.535 HelloWorld[49206:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:08:49.571 HelloWorld[49206:70b] [CDVTimer][statusbar] 8.273959ms
+2014-04-21 16:08:49.572 HelloWorld[49206:70b] [CDVTimer][TotalPluginStartup] 8.825004ms
+2014-04-21 16:08:49.676 HelloWorld[49206:70b] Resetting plugins due to page load.
+2014-04-21 16:08:49.707 HelloWorld[49206:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:08:49.750 HelloWorld[49206:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:08:49.755 HelloWorld[49206:70b] THREAD WARNING: ['InAppBrowser'] took '28.677002' ms. Plugin should use a background thread.
+2014-04-21 16:15:04.547 HelloWorld[49928:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:15:04.575 HelloWorld[49928:70b] [CDVTimer][statusbar] 6.688952ms
+2014-04-21 16:15:04.575 HelloWorld[49928:70b] [CDVTimer][TotalPluginStartup] 7.095993ms
+2014-04-21 16:15:04.603 HelloWorld[49928:70b] Resetting plugins due to page load.
+2014-04-21 16:15:04.627 HelloWorld[49928:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:15:04.656 HelloWorld[49928:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:15:04.660 HelloWorld[49928:70b] THREAD WARNING: ['InAppBrowser'] took '19.635742' ms. Plugin should use a background thread.
+2014-04-21 16:15:55.207 HelloWorld[50259:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:15:55.233 HelloWorld[50259:70b] [CDVTimer][statusbar] 6.233037ms
+2014-04-21 16:15:55.233 HelloWorld[50259:70b] [CDVTimer][TotalPluginStartup] 6.672025ms
+2014-04-21 16:15:55.260 HelloWorld[50259:70b] Resetting plugins due to page load.
+2014-04-21 16:15:55.283 HelloWorld[50259:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:15:55.310 HelloWorld[50259:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:15:55.314 HelloWorld[50259:70b] THREAD WARNING: ['InAppBrowser'] took '19.122070' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-04-21 16:16:58.477 HelloWorld[50633:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:16:58.510 HelloWorld[50633:70b] [CDVTimer][statusbar] 7.293999ms
+2014-04-21 16:16:58.511 HelloWorld[50633:70b] [CDVTimer][TotalPluginStartup] 7.813990ms
+2014-04-21 16:16:58.644 HelloWorld[50633:70b] Resetting plugins due to page load.
+2014-04-21 16:16:58.683 HelloWorld[50633:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:16:58.723 HelloWorld[50633:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:16:58.728 HelloWorld[50633:70b] THREAD WARNING: ['InAppBrowser'] took '26.719727' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-04-21 16:19:14.264 HelloWorld[51008:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:19:14.297 HelloWorld[51008:70b] [CDVTimer][statusbar] 7.829964ms
+2014-04-21 16:19:14.297 HelloWorld[51008:70b] [CDVTimer][TotalPluginStartup] 8.275986ms
+2014-04-21 16:19:14.389 HelloWorld[51008:70b] Resetting plugins due to page load.
+2014-04-21 16:19:14.417 HelloWorld[51008:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:19:14.453 HelloWorld[51008:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:19:14.456 HelloWorld[51008:70b] THREAD WARNING: ['InAppBrowser'] took '22.923096' ms. Plugin should use a background thread.
+2014-04-21 16:19:17.437 HelloWorld[51008:70b] CDVWebViewDelegate: Detected redirect when loadCount=4
+2014-04-21 16:19:17.438 HelloWorld[51008:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-04-21 16:19:18.613 HelloWorld[51008:70b] CDVWebViewDelegate: Detected redirect when loadCount=4
+2014-04-21 16:19:18.766 HelloWorld[51008:70b] CDVWebViewDelegate: Detected redirect when loadCount=4
+2014-04-21 16:19:18.892 HelloWorld[51008:70b] CDVWebViewDelegate: Detected redirect when loadCount=4
+2014-04-21 16:19:19.025 HelloWorld[51008:70b] CDVWebViewDelegate: Detected redirect when loadCount=4
+Terminating in response to SpringBoard's termination.
+2014-04-21 16:19:46.984 HelloWorld[51370:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:19:47.018 HelloWorld[51370:70b] [CDVTimer][statusbar] 7.753015ms
+2014-04-21 16:19:47.019 HelloWorld[51370:70b] [CDVTimer][TotalPluginStartup] 8.278966ms
+2014-04-21 16:19:47.113 HelloWorld[51370:70b] Resetting plugins due to page load.
+2014-04-21 16:19:47.141 HelloWorld[51370:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:19:47.189 HelloWorld[51370:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:19:47.193 HelloWorld[51370:70b] THREAD WARNING: ['InAppBrowser'] took '24.968262' ms. Plugin should use a background thread.
+2014-04-21 16:20:34.254 HelloWorld[51740:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:20:34.283 HelloWorld[51740:70b] [CDVTimer][statusbar] 6.902039ms
+2014-04-21 16:20:34.283 HelloWorld[51740:70b] [CDVTimer][TotalPluginStartup] 7.335007ms
+2014-04-21 16:20:34.392 HelloWorld[51740:70b] Resetting plugins due to page load.
+2014-04-21 16:20:34.430 HelloWorld[51740:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:20:34.480 HelloWorld[51740:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:20:34.485 HelloWorld[51740:70b] THREAD WARNING: ['InAppBrowser'] took '26.309082' ms. Plugin should use a background thread.
+2014-04-21 16:20:59.263 HelloWorld[52102:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:20:59.301 HelloWorld[52102:70b] [CDVTimer][statusbar] 8.827031ms
+2014-04-21 16:20:59.301 HelloWorld[52102:70b] [CDVTimer][TotalPluginStartup] 9.406984ms
+2014-04-21 16:20:59.437 HelloWorld[52102:70b] Resetting plugins due to page load.
+2014-04-21 16:20:59.476 HelloWorld[52102:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:20:59.529 HelloWorld[52102:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:20:59.533 HelloWorld[52102:70b] THREAD WARNING: ['InAppBrowser'] took '25.880127' ms. Plugin should use a background thread.
+2014-04-21 16:21:30.855 HelloWorld[52467:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:21:30.892 HelloWorld[52467:70b] [CDVTimer][statusbar] 7.330000ms
+2014-04-21 16:21:30.892 HelloWorld[52467:70b] [CDVTimer][TotalPluginStartup] 7.839024ms
+2014-04-21 16:21:30.998 HelloWorld[52467:70b] Resetting plugins due to page load.
+2014-04-21 16:21:31.031 HelloWorld[52467:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:21:31.075 HelloWorld[52467:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:21:31.080 HelloWorld[52467:70b] THREAD WARNING: ['InAppBrowser'] took '31.428223' ms. Plugin should use a background thread.
+2014-04-21 16:22:25.845 HelloWorld[52832:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:22:25.873 HelloWorld[52832:70b] [CDVTimer][statusbar] 6.412029ms
+2014-04-21 16:22:25.874 HelloWorld[52832:70b] [CDVTimer][TotalPluginStartup] 6.877005ms
+2014-04-21 16:22:25.996 HelloWorld[52832:70b] Resetting plugins due to page load.
+2014-04-21 16:22:26.029 HelloWorld[52832:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:22:26.079 HelloWorld[52832:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:22:26.083 HelloWorld[52832:70b] THREAD WARNING: ['InAppBrowser'] took '21.210205' ms. Plugin should use a background thread.
+2014-04-21 16:23:23.501 HelloWorld[53195:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:23:23.566 HelloWorld[53195:70b] [CDVTimer][statusbar] 43.143988ms
+2014-04-21 16:23:23.566 HelloWorld[53195:70b] [CDVTimer][TotalPluginStartup] 43.626964ms
+2014-04-21 16:23:23.669 HelloWorld[53195:70b] Resetting plugins due to page load.
+2014-04-21 16:23:23.723 HelloWorld[53195:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:23:23.765 HelloWorld[53195:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:23:23.769 HelloWorld[53195:70b] THREAD WARNING: ['InAppBrowser'] took '25.473145' ms. Plugin should use a background thread.
+2014-04-21 16:26:44.953 HelloWorld[53566:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:26:44.983 HelloWorld[53566:70b] [CDVTimer][statusbar] 7.214963ms
+2014-04-21 16:26:44.983 HelloWorld[53566:70b] [CDVTimer][TotalPluginStartup] 7.633030ms
+2014-04-21 16:26:45.063 HelloWorld[53566:70b] Resetting plugins due to page load.
+2014-04-21 16:26:45.091 HelloWorld[53566:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:26:45.130 HelloWorld[53566:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:26:45.136 HelloWorld[53566:70b] THREAD WARNING: ['InAppBrowser'] took '24.409180' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-04-21 16:28:40.309 HelloWorld[53940:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:28:40.340 HelloWorld[53940:70b] [CDVTimer][statusbar] 8.138001ms
+2014-04-21 16:28:40.340 HelloWorld[53940:70b] [CDVTimer][TotalPluginStartup] 8.629978ms
+2014-04-21 16:28:40.445 HelloWorld[53940:70b] Resetting plugins due to page load.
+2014-04-21 16:28:40.478 HelloWorld[53940:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:28:40.521 HelloWorld[53940:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:28:40.526 HelloWorld[53940:70b] THREAD WARNING: ['InAppBrowser'] took '29.722168' ms. Plugin should use a background thread.
+2014-04-21 16:30:33.800 HelloWorld[54313:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:30:33.834 HelloWorld[54313:70b] [CDVTimer][statusbar] 8.424997ms
+2014-04-21 16:30:33.834 HelloWorld[54313:70b] [CDVTimer][TotalPluginStartup] 8.994043ms
+2014-04-21 16:30:33.934 HelloWorld[54313:70b] Resetting plugins due to page load.
+2014-04-21 16:30:33.966 HelloWorld[54313:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:30:34.013 HelloWorld[54313:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:30:34.018 HelloWorld[54313:70b] THREAD WARNING: ['InAppBrowser'] took '28.003906' ms. Plugin should use a background thread.
+2014-04-21 16:31:05.874 HelloWorld[54313:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-04-21 16:31:05.874 HelloWorld[54313:70b] webView:didFailLoadWithError - 1: CDVWebViewDelegate: Navigation started when state=1
+2014-04-21 16:31:08.436 HelloWorld[54313:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-04-21 16:37:04.747 HelloWorld[54690:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:37:04.781 HelloWorld[54690:70b] [CDVTimer][statusbar] 7.842004ms
+2014-04-21 16:37:04.781 HelloWorld[54690:70b] [CDVTimer][TotalPluginStartup] 8.372009ms
+2014-04-21 16:37:04.904 HelloWorld[54690:70b] Resetting plugins due to page load.
+2014-04-21 16:37:04.938 HelloWorld[54690:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:37:04.996 HelloWorld[54690:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:37:05.001 HelloWorld[54690:70b] THREAD WARNING: ['InAppBrowser'] took '29.743896' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-04-21 16:37:49.285 HelloWorld[55060:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:37:49.319 HelloWorld[55060:70b] [CDVTimer][statusbar] 7.153034ms
+2014-04-21 16:37:49.320 HelloWorld[55060:70b] [CDVTimer][TotalPluginStartup] 7.620990ms
+2014-04-21 16:37:49.411 HelloWorld[55060:70b] Resetting plugins due to page load.
+2014-04-21 16:37:49.442 HelloWorld[55060:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:37:49.492 HelloWorld[55060:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:37:49.495 HelloWorld[55060:70b] THREAD WARNING: ['InAppBrowser'] took '27.998047' ms. Plugin should use a background thread.
+2014-04-21 16:43:44.246 HelloWorld[55434:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:43:44.278 HelloWorld[55434:70b] [CDVTimer][statusbar] 7.160008ms
+2014-04-21 16:43:44.279 HelloWorld[55434:70b] [CDVTimer][TotalPluginStartup] 7.583022ms
+2014-04-21 16:43:44.362 HelloWorld[55434:70b] Resetting plugins due to page load.
+2014-04-21 16:43:44.390 HelloWorld[55434:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:43:44.434 HelloWorld[55434:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:43:44.437 HelloWorld[55434:70b] THREAD WARNING: ['InAppBrowser'] took '23.294189' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-04-21 16:44:20.313 HelloWorld[55801:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:44:20.347 HelloWorld[55801:70b] [CDVTimer][statusbar] 8.086979ms
+2014-04-21 16:44:20.347 HelloWorld[55801:70b] [CDVTimer][TotalPluginStartup] 8.538008ms
+2014-04-21 16:44:20.447 HelloWorld[55801:70b] Resetting plugins due to page load.
+2014-04-21 16:44:20.478 HelloWorld[55801:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:44:20.523 HelloWorld[55801:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:44:20.528 HelloWorld[55801:70b] THREAD WARNING: ['InAppBrowser'] took '24.827881' ms. Plugin should use a background thread.
+2014-04-21 16:45:22.515 HelloWorld[56165:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:45:22.548 HelloWorld[56165:70b] [CDVTimer][statusbar] 8.259952ms
+2014-04-21 16:45:22.549 HelloWorld[56165:70b] [CDVTimer][TotalPluginStartup] 8.695006ms
+2014-04-21 16:45:22.643 HelloWorld[56165:70b] Resetting plugins due to page load.
+2014-04-21 16:45:22.675 HelloWorld[56165:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:45:22.724 HelloWorld[56165:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:45:22.730 HelloWorld[56165:70b] THREAD WARNING: ['InAppBrowser'] took '30.720703' ms. Plugin should use a background thread.
+2014-04-21 16:48:12.271 HelloWorld[56541:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:48:12.305 HelloWorld[56541:70b] [CDVTimer][statusbar] 8.029997ms
+2014-04-21 16:48:12.306 HelloWorld[56541:70b] [CDVTimer][TotalPluginStartup] 8.516014ms
+2014-04-21 16:48:12.408 HelloWorld[56541:70b] Resetting plugins due to page load.
+2014-04-21 16:48:12.438 HelloWorld[56541:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:48:12.494 HelloWorld[56541:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:48:12.499 HelloWorld[56541:70b] THREAD WARNING: ['InAppBrowser'] took '30.520264' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-04-21 16:53:17.639 HelloWorld[56921:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:53:17.674 HelloWorld[56921:70b] [CDVTimer][statusbar] 8.090019ms
+2014-04-21 16:53:17.675 HelloWorld[56921:70b] [CDVTimer][TotalPluginStartup] 8.673966ms
+2014-04-21 16:53:17.780 HelloWorld[56921:70b] Resetting plugins due to page load.
+2014-04-21 16:53:17.822 HelloWorld[56921:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:53:17.885 HelloWorld[56921:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:53:17.889 HelloWorld[56921:70b] THREAD WARNING: ['InAppBrowser'] took '30.543945' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-04-21 16:54:58.511 HelloWorld[57288:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 16:54:58.548 HelloWorld[57288:70b] [CDVTimer][statusbar] 7.573009ms
+2014-04-21 16:54:58.548 HelloWorld[57288:70b] [CDVTimer][TotalPluginStartup] 8.002043ms
+2014-04-21 16:54:58.687 HelloWorld[57288:70b] Resetting plugins due to page load.
+2014-04-21 16:54:58.722 HelloWorld[57288:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 16:54:58.777 HelloWorld[57288:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 16:54:58.782 HelloWorld[57288:70b] THREAD WARNING: ['InAppBrowser'] took '27.256836' ms. Plugin should use a background thread.
+2014-04-21 17:01:03.760 HelloWorld[57664:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 17:01:03.853 HelloWorld[57664:70b] [CDVTimer][statusbar] 8.400977ms
+2014-04-21 17:01:03.853 HelloWorld[57664:70b] [CDVTimer][TotalPluginStartup] 8.855999ms
+2014-04-21 17:01:03.953 HelloWorld[57664:70b] Resetting plugins due to page load.
+2014-04-21 17:01:03.987 HelloWorld[57664:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-21 17:01:04.033 HelloWorld[57664:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-21 17:01:04.037 HelloWorld[57664:70b] THREAD WARNING: ['InAppBrowser'] took '26.729248' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-04-22 08:54:47.544 HelloWorld[58105:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-22 08:54:47.583 HelloWorld[58105:70b] [CDVTimer][statusbar] 9.469032ms
+2014-04-22 08:54:47.584 HelloWorld[58105:70b] [CDVTimer][TotalPluginStartup] 10.316968ms
+2014-04-22 08:54:47.694 HelloWorld[58105:70b] Resetting plugins due to page load.
+2014-04-22 08:54:47.727 HelloWorld[58105:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E024973-3003-424B-94A8-7219606C9F5C/HelloWorld.app/www/index.html
+2014-04-22 08:54:47.763 HelloWorld[58105:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-22 08:54:47.768 HelloWorld[58105:70b] THREAD WARNING: ['InAppBrowser'] took '23.218994' ms. Plugin should use a background thread.
